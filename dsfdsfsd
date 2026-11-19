@@ -1,0 +1,6 @@
+cd C:\Users\saif\OneDrive\Desktop\RouterTracker
+git init -b main
+git add .
+git commit -m "Initial commit: RouterTracker Android app"
+git remote add origin https://github.com/<YOUR_USERNAME>/RouterTracker.git
+git push -u origin main
